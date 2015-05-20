@@ -9,7 +9,8 @@ vmware10_ubuntu12.04_share_folder
 报错信息如下：	
 ![error_screenshot](https://github.com/tianxiang1989/vmware10_ubuntu12.04_share_folder/raw/master/screenshots/error.png)
 
-解决方法：	
+解决方法：
+
 1. 将vmware-tools解压到$home下的Downloads里
 2. 拷贝vmhgfs-d_count-kernel-3.11-tools-9.6.0.patch到$home下的Downloads里
 3. 拷贝fix.sh（fox改成本机实际的用户名）到$home下的Downloads里

@@ -6,7 +6,7 @@ vmware10_ubuntu12.04_share_folder
 
 错误现象：	
 在安装VMware-Tools的时候报错，之后重启后在/mnt/hgfs中无共享文件夹	
-报错信息如下：
+报错信息如下：	
 ![error_screenshot](https://github.com/tianxiang1989/vmware10_ubuntu12.04_share_folder/raw/master/screenshots/error.png)
 
 解决方法：

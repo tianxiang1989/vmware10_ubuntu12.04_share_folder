@@ -1,6 +1,6 @@
 vmware10_ubuntu12.04_share_folder
 ==================
-**version:**
+#####version:
     vmware:10.0.0 build-1295980  
 	ubuntu：12.04LTS
 

@@ -9,7 +9,7 @@ it's report an error when install VMware-Tools,then after reboot Ubuntu we can't
 #####Screenshot：
 ![error_screenshot](https://github.com/tianxiang1989/vmware10_ubuntu12.04_share_folder/raw/master/screenshots/error.png)
 
-###解决方法：
+###Solution：
 1. unpack "vmware-tools"to "$home/Downloads".
 2. copy "vmhgfs-d_count-kernel-3.11-tools-9.6.0.patch" to "$home/Downloads".
 3. copy "fix.sh（rename "fox" to your machine's name）to "$home/Downloads".
